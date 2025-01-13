@@ -1,5 +1,5 @@
-const API_KEY = "AIzaSyCHjcxf3Z9Rz69-eNZkyIDITu-MMtArucQ";
-const SEARCH_ENGINE_ID = "a3f427a9d875143d1";
+const API_KEY = "";
+const SEARCH_ENGINE_ID = "";
 
 document.getElementById("searchButton").addEventListener("click", searchBooks);
 
